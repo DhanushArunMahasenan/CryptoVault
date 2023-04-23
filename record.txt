@@ -1,0 +1,1 @@
+{'balance': -65306.84, 'crypto': [{'name': 'BTC', 'quantity': 3, 'average price': 0, 'selling price': 0, 'profit': 0}]}
